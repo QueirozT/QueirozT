@@ -1,5 +1,5 @@
 <h2 align="center">Olá 👋, Meu nome é Tiago</h1>
-<p align="justify">Estou atualmente estudando Python. Comecei estudando Front-end com JavaScript HTML e CSS, mas após alguns projetos, senti a necessidade de aprender sobre Back-end. Foi quando conheci o Python, e me apaixonei pela linguagem. Gosto muito de desafios e estou sempre tentando aprender novas tecnologias.</p>
+<p align="justify">Estou atualmente estudando Python. Comecei estudando Front-end com JavaScript HTML e CSS, mas após alguns projetos, senti a necessidade de aprender sobre Back-end. Foi quando conheci o Python, e me apaixonei pela linguagem. Gosto muito de desafios e estou sempre tentando aprender novas tecnologias.</p><br>
 
 
 <div align="center">
@@ -23,24 +23,27 @@
 
   ##
 
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-<div align="left" target="_blank"> 
+<div align="left" style="display: inline_block;">
+  
+  <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->  
   <a href="https://instagram.com/thy0_0" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+    </a>
   <a href="https://twitter.com/QueirozT_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
+    </a>
   <a href = "mailto:tiagoqueirozgoncalves100@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+    </a>
   <a href="https://www.linkedin.com/in/queirozt" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+    </a>
   
   ![Snake animation](https://github.com/queirozt/queirozt/blob/output/github-contribution-grid-snake.svg)
 
  </div>
+  
+  
 <!--
 **QueirozT/QueirozT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
