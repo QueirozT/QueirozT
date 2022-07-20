@@ -1,5 +1,5 @@
 <h2 align="center">Olá 👋, Meu nome é Tiago</h1>
-<p align="justify">Estou atualmente estudando Python. Comecei estudando Front-end com JavaScript HTML e CSS, mas após alguns projetos, senti a necessidade de aprender sobre Back-end. Foi quando conheci o Python, e me apaixonei pela linguagem. Gosto muito de desafios e estou sempre aberto a aprender novas tecnologias.</p>
+<p align="justify">Estou atualmente estudando Python. Comecei estudando Front-end com JavaScript HTML e CSS, mas após alguns projetos, senti a necessidade de aprender sobre Back-end. Foi quando conheci o Python, e me apaixonei pela linguagem. Gosto muito de desafios e estou sempre tentando aprender novas tecnologias.</p>
 
 
 <div align="center">
@@ -9,22 +9,22 @@
 </div>
 
  
-<p align="center" style="display: inline_block"><br> 
+<p align="left" style="display: inline_block;"><br> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="qt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
   <img align="center" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+  <!-- <img align="center" alt="qt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/>
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="SqLite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/> </a> 
+  <img align="center" alt="SqLite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/> </a> -->
 </p>
 
   ##
   
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-<div align="center"> 
+<div align="left"> 
   <a href="https://instagram.com/thy0_0" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
