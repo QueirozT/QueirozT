@@ -1,5 +1,5 @@
 <h2 align="center">Olá 👋, Meu nome é Tiago</h1>
-<p align="justify">Estou atualmente estudando Python. Comecei estudando Front-end com JavaScript HTML e CSS, mas após alguns projetos, senti a necessidade de aprender sobre Back-end. Foi quando conheci o Python, e me apaixonei pela linguagem. Gosto muito de desafios e estou sempre tentando aprender novas tecnologias.</p><br>
+<p align="justify">Estou atualmente estudando Python. Comecei estudando Front-end com JavaScript HTML e CSS, mas após alguns projetos, senti a necessidade de aprender sobre Back-end. Foi quando conheci o Python e me apaixonei pela linguagem. Gosto muito de desafios e estou sempre tentando aprender novas tecnologias.</p><br>
 
 
 <div align="center">
