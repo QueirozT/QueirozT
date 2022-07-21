@@ -23,21 +23,25 @@
 
   ##
 
-<div align="left" style="display: inline_block;">
+<div align="center" style="display: inline_block;">
   
-  <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->  
-  <a href="https://instagram.com/thy0_0" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-  <a href="https://twitter.com/QueirozT_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-  <a href = "mailto:tiagoqueirozgoncalves100@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  <a href="https://www.linkedin.com/in/queirozt" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
+  <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+  <!--
+  <p align="left">
+    <a href="https://instagram.com/thy0_0" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      </a>
+    <a href="https://twitter.com/QueirozT_" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      </a>
+    <a href = "mailto:tiagoqueirozgoncalves100@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    <a href="https://www.linkedin.com/in/queirozt" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+  </p>
+  -->
   
   ![Snake animation](https://github.com/queirozt/queirozt/blob/output/github-contribution-grid-snake.svg)
 
