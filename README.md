@@ -1,54 +1,120 @@
-<h2 align="center">Olá 👋, Meu nome é Tiago</h1>
-<p align="justify">Eu estou atualmente estudando e desenvolvendo em Python, mas pretendo aprender outra tecnologias. Fique a vontade para conhecer alguns dos meus projetos.</p><br>
+<h2 align="center">
+  Olá 👋 Seja bem vindo ao meu Github! 🎉 <br>
+  Fique a vontade para explorar e conhecer meus projetos.
+</h2>
 
+<h3 align="center">
+  Sobre Mim 👨‍🎓
+</h3>
+
+<p>
+  Eu estudo e programo a pouco mais de um ano. Sou autodidata, gosto de descobrir as soluções sozinho, mas não tenho nenhum problema em pedir ajuda quando preciso. Invisto o meu tempo livre em projetos pessoais e em aprender novas tecnologias. Gosto de desafios e tento me superar a cada dia. Infelizmente ainda não consegui uma oportunidade, mas eu não desisto. meu novo objetivo/desafio é conseguir uma oportunidade, tenho muito a contribuir e espero aprender muito com essa experiência.
+</p>
+
+<hr>
+
+<h3 align="center">
+  Perfis sociais ☕
+</h3>
+
+<div align="center">
+  <a href="https://instagram.com/thy0_0" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  <a href="https://twitter.com/QueirozT_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+  <a href = "mailto:tiagoqueirozgoncalves100@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  <a href="https://www.linkedin.com/in/queirozt" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
+<hr>
+  
+<h3 align="center">
+  Minhas stacks 📚
+<h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      PYTHON
+    </td>
+    <td align="center">
+      FLASK
+    </td>
+    <td align="center">
+      JAVASCRIPT
+    </td>
+    <td align="center">
+      HTML
+    </td>
+     <td align="center">
+      CSS
+    </td>
+     <td align="center">
+      MYSQL
+    </td>
+     <td align="center">
+      QT
+    </td>
+     <td align="center">
+      DOCKER
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h3 align="center">
+  Quer ver minhas estatísticas? 📊
+<h3>
 
 <div align="center">
   <a href="https://github.com/queirozt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queirozt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozt&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queirozt&show_icons=true&locale=pt-br&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozt&locale=pt-br&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
- <!--
-<div align="center" style="display: inline_block;"><br> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
-  <img align="center" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-  <img align="center" alt="qt" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/>
-  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="SqLite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/> </a>
-</div>
-  -->
-
-  ##
-
-<div align="center" style="display: inline_block;">
   
-  <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-  <!--
-  <p align="left">
-    <a href="https://instagram.com/thy0_0" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      </a>
-    <a href="https://twitter.com/QueirozT_" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-      </a>
-    <a href = "mailto:tiagoqueirozgoncalves100@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-    <a href="https://www.linkedin.com/in/queirozt" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-  </p>
-  -->
+<div align="center" style="display: inline_block;">
   
   ![Snake animation](https://github.com/queirozt/queirozt/blob/output/github-contribution-grid-snake.svg)
 
- </div>
+</div>
+
   
-  
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+
 <!--
 **QueirozT/QueirozT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
