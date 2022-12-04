@@ -8,7 +8,7 @@
 </h3>
 
 <p>
-  Eu estudo e programo a pouco mais de um ano. Sou autodidata, gosto de descobrir as soluções sozinho, mas não tenho nenhum problema em pedir ajuda quando preciso. Invisto o meu tempo livre em projetos pessoais e em aprender novas tecnologias. Gosto de desafios e tento me superar a cada dia. Infelizmente ainda não consegui uma oportunidade, mas eu não desisto. meu novo objetivo/desafio é conseguir uma oportunidade, tenho muito a contribuir e espero aprender muito com essa experiência.
+  Eu estudo e programo a pouco mais de um ano. Sou autodidata, gosto de descobrir as soluções por conta própria, mas não tenho problema em pedir ajuda quando preciso. Invisto o meu tempo livre em projetos pessoais e em aprender novas tecnologias. Gosto de desafios e tento me superar a cada dia. Meu objetivo/desafio atual é conseguir uma oportunidade, tenho muito a contribuir e espero aprender muito com essa experiência.
 </p>
 
 <hr>
